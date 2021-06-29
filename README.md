@@ -16,7 +16,7 @@ By comparing only two years data for 12 stocks it is very veru difficult to deci
 
 !(png_Code before)[https://github.com/Ruma-T/stock_analysis/blob/b2f4c5f345c0eb06d7c0cfb372084add920aff8b/Code%20After.PNG]
 
-!(png_Code Before)[https://github.com/Ruma-T/stock_analysis/blob/b2f4c5f345c0eb06d7c0cfb372084add920aff8b/Code%20After.PNG]
+!(png_Code After)[https://github.com/Ruma-T/stock_analysis/blob/b2f4c5f345c0eb06d7c0cfb372084add920aff8b/Code%20After.PNG]
 
 
 
