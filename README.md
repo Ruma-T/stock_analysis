@@ -9,14 +9,25 @@ Steve, who has a finance degree, wanted to help his to invest in DAQO New Energy
 Our purpose is to use an extension of Excel, VBA (Visual Basic Application) to automate tests and get better results for big size of data. VBA will help us to interact with excel; read and write the cells in the worksheet, make calculations, and perform analysis and reduce the chance of accidental errors. We will be using loops and conditions to see the yearly performances of 12 different company stocks. In this way not only we’ll be able to perform analysis on over 3000 data, but we’ll be giving reducing the chance of duplication and miscalculation. Our goal is to bring down the runtime of the code as much as possible to give quick result.
 
 
-###RESULTS
+### RESULTS
 
 By comparing only two years data for 12 stocks it is very veru difficult to decide where to invest as the results of the particular stock is totally different. Steve has to do lot more research on mor stocks information with several years data set.
 
+Here is part of code to show the difference between the original with nested loop and refactored one with no nested loop
 
-!(png_Code before)[https://github.com/Ruma-T/stock_analysis/blob/b2f4c5f345c0eb06d7c0cfb372084add920aff8b/Code%20After.PNG]
 
-!(png_Code After)[https://github.com/Ruma-T/stock_analysis/blob/b2f4c5f345c0eb06d7c0cfb372084add920aff8b/Code%20After.PNG]
+![png_Code before](https://github.com/Ruma-T/stock_analysis/blob/59775b217704c3dbd5c17bd8d7190beb58d6dc42/Code%20before.PNG)
+
+
+
+
+
+
+
+
+
+
+![png_Code After](https://github.com/Ruma-T/stock_analysis/blob/b2f4c5f345c0eb06d7c0cfb372084add920aff8b/Code%20After.PNG)
 
 
 
