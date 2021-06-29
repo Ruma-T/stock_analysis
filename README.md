@@ -13,6 +13,15 @@ Our purpose is to use an extension of Excel, VBA (Visual Basic Application) to a
 
 By comparing only two years data for 12 stocks it is very veru difficult to decide where to invest as the results of the particular stock is totally different. Steve has to do lot more research on mor stocks information with several years data set.
 
+
+!(png_Code before)[https://github.com/Ruma-T/stock_analysis/blob/b2f4c5f345c0eb06d7c0cfb372084add920aff8b/Code%20After.PNG]
+
+!(png_Code Before)[https://github.com/Ruma-T/stock_analysis/blob/b2f4c5f345c0eb06d7c0cfb372084add920aff8b/Code%20After.PNG]
+
+
+
+
+
 ### Analysis of All Stocks in 2017
 
 •	Other than TERP, all stocks returns are very good, specially DQ where Steve's parents wanted to invest.
